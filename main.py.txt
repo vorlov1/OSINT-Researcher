@@ -1,0 +1,23 @@
+def analyze_profile(username):
+    pass
+
+def analyze_content(username):
+    pass
+
+def analyze_network(username):
+    pass
+
+def analyze_sentiments(comments):
+    pass
+
+def generate_report():
+    pass
+
+if __name__ == "__main__":
+    username = "example_username"
+    analyze_profile(username)
+    analyze_content(username)
+    analyze_network(username)
+    comments = ["Great video!", "I don't like this."]
+    analyze_sentiments(comments)
+    generate_report()
