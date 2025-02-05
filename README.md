@@ -14,3 +14,7 @@ OSINT Researcher is an open-source tool designed for comprehensive Open Source I
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/your-username/OSINT-Researcher.git
+
+
+## New Section
+This is a small change added to the README file.
